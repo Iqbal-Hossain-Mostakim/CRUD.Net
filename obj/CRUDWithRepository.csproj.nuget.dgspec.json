@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net project1\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj": {}
+    "E:\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj": {}
   },
   "projects": {
-    "E:\\.net project1\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj": {
+    "E:\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net project1\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj",
+        "projectUniqueName": "E:\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj",
         "projectName": "CRUDWithRepository",
-        "projectPath": "E:\\.net project1\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj",
+        "projectPath": "E:\\CRUDWithRepository\\CRUDWithRepository\\CRUDWithRepository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\.net project1\\CRUDWithRepository\\CRUDWithRepository\\obj\\",
+        "outputPath": "E:\\CRUDWithRepository\\CRUDWithRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

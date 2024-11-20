@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDWithRepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7840de89941c376f56aeab54a98f9ed16fbd82c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDWithRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDWithRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
